@@ -5,6 +5,7 @@ I'm Ethan. Here are some facts about me:<br>
 - I have autism. 🧠<br>
 - I hate it when I don't get straight A's in school.<br>
 - I'm taking college classes (yes).<br>
+
 Here are some of my interests:<br>
 - Gaming 🖥️ I like to mostly play Roblox.<br>
 - Coding 👨‍💻 I'm good at HTML and CSS but still learning.<br>
