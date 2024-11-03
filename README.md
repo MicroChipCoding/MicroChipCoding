@@ -4,8 +4,8 @@ I'm MicroChipCoding. Here are some facts about me:<br>
 - I am left-handed.<br>
 - I have autism. 🧠<br>
 - I hate it when I don't get straight A's in school.<br>
-- I'm taking college classes (yes).<br>
-- I live in Alhambra, CA (not gonna leak my address because yes).</br>
+- I'm taking college classes.<br>
+- I live in Alhambra, CA.</br>
 
 Here are some of my interests:<br>
 - Gaming 🖥️ I like to mostly play Roblox.<br>
