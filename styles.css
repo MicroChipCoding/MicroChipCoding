@@ -1,3 +1,11 @@
 body {
-  font-family: montserrat, sans-serif, serif;
+  font-family: verdana, sans-serif, serif;
+}
+
+ul {
+  text-align: left;
+}
+
+h1, h2, h3 {
+  text-align: center;
 }
