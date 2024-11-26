@@ -12,6 +12,14 @@ ul {
   text-align: left;
 }
 
+/* About Me Page */
+.code {
+  width: 250px;
+  height: 250px;
+  display: block;
+  margin-bottom: 10px;
+}
+
 /* Blog Page */
 .lemon {
   margin-left: auto;
@@ -23,28 +31,4 @@ ul {
 
 .postList {
   margin-bottom: 10px;
-}
-
-/* Images */
-.code {
-  width: 250px;
-  height: 250px;
-  display: block;
-  margin-bottom: 10px;
-}
-
-.post1 {
-  width: 400px;
-  height: 400px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
-.code2 {
-  width: 750px;
-  height: 450px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
 }
